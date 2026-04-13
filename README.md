@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Build-passing-brightgreen?style=for-the-badge&logo=githubactions" alt="CI Status" />
   </p>
   
-  <p><i>An automated testbed utilizing Gemini 1.5 Pro to dynamically optimize reward functions and train robust policies.</i></p>
+  <p><i>An automated testbed utilizing Gemini 2.5 Flash to dynamically optimize reward functions and train robust policies.</i></p>
   
   <br/>
   
